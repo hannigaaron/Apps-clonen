@@ -11,8 +11,8 @@ Felder pro Übung:
 4. equipment, level (beginner, intermediate, advanced)
 5. mechanics (compound, isolation, isometric)
 6. repRange (typischer Wiederholungsbereich)
-7. cue (kurzer Technikhinweis)
+7. steps (3 bis 4 Ausführungsschritte für die Detailansicht)
 
 Herkunft: Namen und Texte sind eigenständig verfasst. Es wurden keine Inhalte, Bilder oder Texte aus nutrilize oder Alpha Progression übernommen.
 
-Offen: Videos oder Grafiken pro Übung. Dafür eigene Aufnahmen oder lizenzfreie Quellen nutzen.
+Offen: Animation pro Übung. Dafür eigene Aufnahmen oder lizenzfreie Quellen nutzen.

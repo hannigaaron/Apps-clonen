@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "count": 74,
   "exercises": [
     {
@@ -19,7 +19,12 @@
       "level": "intermediate",
       "mechanics": "compound",
       "repRange": "5-10",
-      "cue": "Brust hoch, Knie folgen den Zehen, Tiefe bis Oberschenkel mindestens parallel"
+      "steps": [
+        "Stange auf dem oberen Rücken fixieren, Füße schulterbreit",
+        "Bauch anspannen, Brust hoch",
+        "Hüfte und Knie gleichzeitig beugen bis mindestens parallel",
+        "Mit den Füßen den Boden wegdrücken und aufrichten"
+      ]
     },
     {
       "id": "frontkniebeuge",
@@ -37,7 +42,12 @@
       "level": "advanced",
       "mechanics": "compound",
       "repRange": "5-8",
-      "cue": "Ellbogen hoch, aufrechter Oberkörper"
+      "steps": [
+        "Stange auf den vorderen Schultern, Ellbogen zeigen nach vorn",
+        "Oberkörper aufrecht halten",
+        "Tief in die Hocke, Knie folgen den Zehen",
+        "Aus den Fersen und Mittelfuß aufstehen"
+      ]
     },
     {
       "id": "goblet-kniebeuge",
@@ -55,7 +65,12 @@
       "level": "beginner",
       "mechanics": "compound",
       "repRange": "8-15",
-      "cue": "Gewicht vor der Brust, Ellbogen zwischen den Knien"
+      "steps": [
+        "Hantel vor der Brust halten",
+        "Füße etwas breiter als schulterbreit, Zehen leicht nach außen",
+        "Ellbogen zwischen die Knie absenken",
+        "Aufrecht hochdrücken"
+      ]
     },
     {
       "id": "beinpresse",
@@ -73,7 +88,12 @@
       "level": "beginner",
       "mechanics": "compound",
       "repRange": "8-15",
-      "cue": "Unterer Rücken bleibt am Polster, Knie nicht durchstrecken"
+      "steps": [
+        "Rücken und Gesäß fest ans Polster",
+        "Füße schulterbreit auf die Platte",
+        "Kontrolliert beugen, bis die Knie ca. 90 Grad erreichen",
+        "Drücken, Knie oben nicht durchstrecken"
+      ]
     },
     {
       "id": "bulgarian-split-squat",
@@ -91,7 +111,12 @@
       "level": "intermediate",
       "mechanics": "compound",
       "repRange": "8-12",
-      "cue": "Hinterer Fuß erhöht, Oberkörper leicht nach vorn"
+      "steps": [
+        "Hinteren Fuß auf einer Bank ablegen",
+        "Vorderer Fuß weit genug vor der Bank",
+        "Gerade nach unten senken",
+        "Mit dem vorderen Bein hochdrücken"
+      ]
     },
     {
       "id": "ausfallschritt",
@@ -109,7 +134,12 @@
       "level": "beginner",
       "mechanics": "compound",
       "repRange": "8-12",
-      "cue": "Langer Schritt, vorderes Knie über dem Fuß"
+      "steps": [
+        "Aufrecht stehen, großen Schritt nach vorn",
+        "Hinteres Knie Richtung Boden senken",
+        "Vorderes Knie bleibt über dem Fuß",
+        "Mit dem vorderen Bein zurückdrücken"
+      ]
     },
     {
       "id": "step-up",
@@ -125,7 +155,12 @@
       "level": "beginner",
       "mechanics": "compound",
       "repRange": "8-12",
-      "cue": "Mit dem vorderen Bein hochdrücken, nicht vom hinteren Fuß abstoßen"
+      "steps": [
+        "Ganzen Fuß auf die Erhöhung stellen",
+        "Oberkörper aufrecht",
+        "Mit dem vorderen Bein hochsteigen",
+        "Kontrolliert absteigen"
+      ]
     },
     {
       "id": "hackenschmidt-kniebeuge",
@@ -142,7 +177,12 @@
       "level": "intermediate",
       "mechanics": "compound",
       "repRange": "8-12",
-      "cue": "Füße tief gestellt, volle Beugung kontrolliert"
+      "steps": [
+        "Rücken fest an die Lehne, Füße schulterbreit",
+        "Entriegeln und kontrolliert beugen",
+        "Tief gehen, Fersen bleiben am Boden",
+        "Hochdrücken ohne Knie durchzustrecken"
+      ]
     },
     {
       "id": "beinstrecker",
@@ -157,7 +197,12 @@
       "level": "beginner",
       "mechanics": "isolation",
       "repRange": "10-20",
-      "cue": "Oben kurz halten, Bewegung langsam senken"
+      "steps": [
+        "Polster knapp über den Knöcheln einstellen",
+        "Rücken an der Lehne",
+        "Beine strecken, oben 1 Sekunde halten",
+        "Langsam absenken"
+      ]
     },
     {
       "id": "kreuzheben",
@@ -178,7 +223,12 @@
       "level": "advanced",
       "mechanics": "compound",
       "repRange": "3-8",
-      "cue": "Stange nah am Körper, neutraler Rücken, Boden wegdrücken"
+      "steps": [
+        "Stange über dem Mittelfuß, schulterbreiter Griff",
+        "Rücken gerade, Brust hoch, Spannung aufbauen",
+        "Boden wegdrücken, Stange nah am Körper führen",
+        "Oben Hüfte und Knie strecken, kontrolliert ablegen"
+      ]
     },
     {
       "id": "rumaenisches-kreuzheben",
@@ -196,7 +246,12 @@
       "level": "intermediate",
       "mechanics": "compound",
       "repRange": "6-12",
-      "cue": "Hüfte nach hinten schieben, Knie leicht gebeugt, Stange entlang der Beine"
+      "steps": [
+        "Aufrecht stehen, Stange vor den Oberschenkeln",
+        "Knie leicht gebeugt, Hüfte nach hinten schieben",
+        "Stange an den Beinen entlang absenken, bis die Hamstrings dehnen",
+        "Hüfte nach vorn schieben und aufrichten"
+      ]
     },
     {
       "id": "sumo-kreuzheben",
@@ -215,7 +270,12 @@
       "level": "advanced",
       "mechanics": "compound",
       "repRange": "3-8",
-      "cue": "Breiter Stand, Knie nach außen drücken"
+      "steps": [
+        "Breiter Stand, Zehen nach außen",
+        "Griff innerhalb der Knie, Brust hoch",
+        "Knie nach außen drücken, Boden wegdrücken",
+        "Hüfte nach vorn und aufrichten"
+      ]
     },
     {
       "id": "trap-bar-kreuzheben",
@@ -234,7 +294,12 @@
       "level": "beginner",
       "mechanics": "compound",
       "repRange": "5-10",
-      "cue": "Neutraler Griff, Brust hoch"
+      "steps": [
+        "In die Mitte der Trap Bar stellen, Griffe fassen",
+        "Brust hoch, Rücken gerade",
+        "Boden wegdrücken",
+        "Oben aufrecht stehen, kontrolliert absetzen"
+      ]
     },
     {
       "id": "hip-thrust",
@@ -251,7 +316,12 @@
       "level": "intermediate",
       "mechanics": "compound",
       "repRange": "8-12",
-      "cue": "Kinn leicht zur Brust, oben Gesäß fest anspannen"
+      "steps": [
+        "Oberer Rücken an der Bank, Stange auf der Hüfte",
+        "Füße hüftbreit, Schienbeine oben senkrecht",
+        "Hüfte nach oben strecken",
+        "Oben Gesäß 1 Sekunde anspannen"
+      ]
     },
     {
       "id": "glute-bridge",
@@ -268,7 +338,12 @@
       "level": "beginner",
       "mechanics": "compound",
       "repRange": "10-20",
-      "cue": "Fersen drücken, Becken nicht überstrecken"
+      "steps": [
+        "Auf dem Rücken, Füße aufgestellt",
+        "Bauch anspannen",
+        "Hüfte hochdrücken, bis Schultern, Hüfte und Knie eine Linie bilden",
+        "Gesäß oben anspannen"
+      ]
     },
     {
       "id": "good-morning",
@@ -286,7 +361,12 @@
       "level": "advanced",
       "mechanics": "compound",
       "repRange": "8-12",
-      "cue": "Hüftbeugung mit geradem Rücken, leichtes Gewicht"
+      "steps": [
+        "Stange auf dem oberen Rücken, Knie leicht gebeugt",
+        "Hüfte nach hinten schieben",
+        "Oberkörper mit geradem Rücken absenken",
+        "Mit der Hüfte aufrichten"
+      ]
     },
     {
       "id": "liegendes-beinbeugen",
@@ -301,7 +381,12 @@
       "level": "beginner",
       "mechanics": "isolation",
       "repRange": "8-15",
-      "cue": "Hüfte bleibt am Polster"
+      "steps": [
+        "Bauch auf die Bank, Polster über den Fersen",
+        "Hüfte bleibt unten",
+        "Fersen zum Gesäß ziehen",
+        "Langsam zurück"
+      ]
     },
     {
       "id": "sitzendes-beinbeugen",
@@ -316,7 +401,12 @@
       "level": "beginner",
       "mechanics": "isolation",
       "repRange": "8-15",
-      "cue": "Volle Dehnung unten nutzen"
+      "steps": [
+        "Oberschenkelpolster fixieren, Rücken anlehnen",
+        "Polster über den Fersen",
+        "Fersen unter den Sitz ziehen",
+        "Langsam zurück in die Dehnung"
+      ]
     },
     {
       "id": "nordic-curl",
@@ -333,7 +423,12 @@
       "level": "advanced",
       "mechanics": "isolation",
       "repRange": "3-8",
-      "cue": "Körper gerade lassen, exzentrisch kontrolliert absenken"
+      "steps": [
+        "Knie auf Polster, Füße fixieren",
+        "Körper von Knien bis Kopf gerade halten",
+        "So weit wie möglich kontrolliert nach vorn sinken",
+        "Mit den Händen abfangen und hochdrücken"
+      ]
     },
     {
       "id": "wadenheben-stehend",
@@ -350,7 +445,12 @@
       "level": "beginner",
       "mechanics": "isolation",
       "repRange": "8-15",
-      "cue": "Unten volle Dehnung, oben kurz halten"
+      "steps": [
+        "Ballen auf die Kante, Fersen frei",
+        "Kniee fast gestreckt",
+        "Fersen hochdrücken, oben 1 Sekunde halten",
+        "Unten tief dehnen"
+      ]
     },
     {
       "id": "wadenheben-sitzend",
@@ -367,7 +467,12 @@
       "level": "beginner",
       "mechanics": "isolation",
       "repRange": "10-20",
-      "cue": "Langsam und mit voller Bewegung"
+      "steps": [
+        "Polster auf die Oberschenkel, Ballen auf die Kante",
+        "Fersen absenken bis zur Dehnung",
+        "Hochdrücken, oben halten",
+        "Langsam zurück"
+      ]
     },
     {
       "id": "adduktorenmaschine",
@@ -382,7 +487,12 @@
       "level": "beginner",
       "mechanics": "isolation",
       "repRange": "10-15",
-      "cue": "Kontrolliert zusammenführen"
+      "steps": [
+        "Beine an den Polstern, Rücken angelehnt",
+        "Aufrecht sitzen",
+        "Beine kontrolliert zusammenführen",
+        "Langsam öffnen"
+      ]
     },
     {
       "id": "abduktorenmaschine",
@@ -397,7 +507,12 @@
       "level": "beginner",
       "mechanics": "isolation",
       "repRange": "12-20",
-      "cue": "Becken stabil, nicht schwingen"
+      "steps": [
+        "Rücken angelehnt, Polster außen an den Knien",
+        "Becken stabil halten",
+        "Beine nach außen drücken",
+        "Langsam zurückführen"
+      ]
     },
     {
       "id": "bankdruecken",
@@ -415,7 +530,12 @@
       "level": "intermediate",
       "mechanics": "compound",
       "repRange": "5-10",
-      "cue": "Schulterblätter zusammen, Füße fest am Boden"
+      "steps": [
+        "Schulterblätter zusammen und nach unten, Füße fest am Boden",
+        "Stange über der Brust greifen, etwas breiter als schulterbreit",
+        "Zur unteren Brust absenken, Ellbogen ca. 45 Grad",
+        "Kraftvoll nach oben drücken"
+      ]
     },
     {
       "id": "schraegbankdruecken",
@@ -433,7 +553,12 @@
       "level": "intermediate",
       "mechanics": "compound",
       "repRange": "6-10",
-      "cue": "Bank 30 Grad, Stange zur oberen Brust"
+      "steps": [
+        "Bank auf ca. 30 Grad, Schulterblätter zusammen",
+        "Stange zur oberen Brust absenken",
+        "Ellbogen nicht zu weit nach außen",
+        "Nach oben drücken"
+      ]
     },
     {
       "id": "kurzhantel-bankdruecken",
@@ -451,7 +576,12 @@
       "level": "beginner",
       "mechanics": "compound",
       "repRange": "8-12",
-      "cue": "Ellbogen ca. 45 Grad zum Körper, volle Dehnung"
+      "steps": [
+        "Hanteln über der Brust, Schulterblätter zusammen",
+        "Kontrolliert tief absenken bis zur Dehnung",
+        "Ellbogen ca. 45 Grad zum Körper",
+        "Nach oben drücken"
+      ]
     },
     {
       "id": "kurzhantel-schraegbankdruecken",
@@ -469,7 +599,12 @@
       "level": "beginner",
       "mechanics": "compound",
       "repRange": "8-12",
-      "cue": "Hanteln über der Schulter pressen"
+      "steps": [
+        "Bank auf ca. 30 Grad",
+        "Hanteln über der oberen Brust",
+        "Kontrolliert absenken",
+        "Zur Mitte hochdrücken"
+      ]
     },
     {
       "id": "brustpresse",
@@ -486,7 +621,12 @@
       "level": "beginner",
       "mechanics": "compound",
       "repRange": "8-15",
-      "cue": "Sitzhöhe so, dass Griffe auf Brusthöhe liegen"
+      "steps": [
+        "Sitz so einstellen, dass Griffe auf Brusthöhe liegen",
+        "Schulterblätter an die Lehne",
+        "Nach vorn drücken",
+        "Kontrolliert zurückführen"
+      ]
     },
     {
       "id": "liegestuetz",
@@ -505,7 +645,12 @@
       "level": "beginner",
       "mechanics": "compound",
       "repRange": "8-20",
-      "cue": "Körper bildet eine gerade Linie"
+      "steps": [
+        "Hände etwas breiter als schulterbreit",
+        "Körper in einer Linie, Bauch und Gesäß fest",
+        "Brust zum Boden absenken",
+        "Wegdrücken"
+      ]
     },
     {
       "id": "dips",
@@ -523,7 +668,12 @@
       "level": "intermediate",
       "mechanics": "compound",
       "repRange": "6-12",
-      "cue": "Leicht nach vorn lehnen für mehr Brustanteil"
+      "steps": [
+        "Stützen, Schultern tief halten",
+        "Leicht nach vorn lehnen",
+        "Ellbogen beugen bis ca. 90 Grad",
+        "Hochdrücken"
+      ]
     },
     {
       "id": "fliegende-kurzhantel",
@@ -538,7 +688,12 @@
       "level": "intermediate",
       "mechanics": "isolation",
       "repRange": "10-15",
-      "cue": "Ellbogen leicht gebeugt, Dehnung kontrolliert"
+      "steps": [
+        "Hanteln über der Brust, Ellbogen leicht gebeugt",
+        "Arme in einem Bogen öffnen",
+        "Bis zur Dehnung absenken",
+        "Bogen zurück zusammenführen"
+      ]
     },
     {
       "id": "cable-crossover",
@@ -553,7 +708,12 @@
       "level": "beginner",
       "mechanics": "isolation",
       "repRange": "10-15",
-      "cue": "Arme in einem Bogen zusammenführen"
+      "steps": [
+        "Seile hoch einstellen, ein Fuß vor",
+        "Leichte Beugung der Ellbogen",
+        "Arme in einem Bogen vor der Brust zusammenführen",
+        "Kontrolliert öffnen"
+      ]
     },
     {
       "id": "butterfly-maschine",
@@ -568,7 +728,12 @@
       "level": "beginner",
       "mechanics": "isolation",
       "repRange": "10-15",
-      "cue": "Schultern nach hinten unten halten"
+      "steps": [
+        "Sitzhöhe: Griffe auf Brusthöhe",
+        "Schultern nach hinten unten",
+        "Arme zusammenführen",
+        "Langsam öffnen"
+      ]
     },
     {
       "id": "schulterdruecken-langhantel",
@@ -587,7 +752,12 @@
       "level": "intermediate",
       "mechanics": "compound",
       "repRange": "5-10",
-      "cue": "Gesäß und Bauch fest, Kopf nach dem Durchgang unter die Stange"
+      "steps": [
+        "Stange auf Schulterhöhe, Gesäß und Bauch fest",
+        "Stange senkrecht über dem Mittelfuß hochdrücken",
+        "Kopf nach hinten bewegen, oben wieder nach vorn",
+        "Kontrolliert zurück"
+      ]
     },
     {
       "id": "schulterdruecken-kurzhantel",
@@ -605,7 +775,12 @@
       "level": "beginner",
       "mechanics": "compound",
       "repRange": "8-12",
-      "cue": "Unterarme senkrecht"
+      "steps": [
+        "Hanteln auf Schulterhöhe, Unterarme senkrecht",
+        "Bauch anspannen",
+        "Über dem Kopf zusammenführen",
+        "Kontrolliert absenken"
+      ]
     },
     {
       "id": "arnold-press",
@@ -622,7 +797,12 @@
       "level": "intermediate",
       "mechanics": "compound",
       "repRange": "8-12",
-      "cue": "Rotation fließend, nicht schwingen"
+      "steps": [
+        "Hanteln vor der Brust, Handflächen zu dir",
+        "Beim Hochdrücken nach außen drehen",
+        "Oben Arme strecken",
+        "Rückwärts drehen und absenken"
+      ]
     },
     {
       "id": "seitheben",
@@ -637,7 +817,12 @@
       "level": "beginner",
       "mechanics": "isolation",
       "repRange": "10-20",
-      "cue": "Ellbogen führen, bis Schulterhöhe"
+      "steps": [
+        "Leichte Beugung der Ellbogen",
+        "Ellbogen führen die Bewegung",
+        "Bis Schulterhöhe heben",
+        "Langsam absenken"
+      ]
     },
     {
       "id": "seitheben-kabel",
@@ -652,7 +837,12 @@
       "level": "intermediate",
       "mechanics": "isolation",
       "repRange": "10-20",
-      "cue": "Konstante Spannung über den ganzen Weg"
+      "steps": [
+        "Seil seitlich tief einstellen",
+        "Arm leicht gebeugt",
+        "Seitlich bis Schulterhöhe heben",
+        "Langsam zurück"
+      ]
     },
     {
       "id": "reverse-fly",
@@ -670,7 +860,12 @@
       "level": "beginner",
       "mechanics": "isolation",
       "repRange": "12-20",
-      "cue": "Oberkörper vorgebeugt, Schulterblätter nicht überziehen"
+      "steps": [
+        "Oberkörper vorgebeugt, Rücken gerade",
+        "Arme leicht gebeugt",
+        "Seitlich nach oben öffnen",
+        "Schulterblätter zusammen, langsam zurück"
+      ]
     },
     {
       "id": "face-pull",
@@ -688,7 +883,12 @@
       "level": "beginner",
       "mechanics": "compound",
       "repRange": "12-20",
-      "cue": "Seil zur Stirn, Ellbogen hoch"
+      "steps": [
+        "Seil auf Gesichtshöhe, Griff übereinander",
+        "Ellbogen hoch",
+        "Seil zur Stirn ziehen, Enden auseinander",
+        "Kontrolliert zurück"
+      ]
     },
     {
       "id": "klimmzug",
@@ -706,7 +906,12 @@
       "level": "intermediate",
       "mechanics": "compound",
       "repRange": "5-12",
-      "cue": "Schulterblätter zuerst nach unten, Brust zur Stange"
+      "steps": [
+        "Griff etwas breiter als schulterbreit",
+        "Schulterblätter nach unten ziehen",
+        "Brust zur Stange ziehen",
+        "Kontrolliert absenken"
+      ]
     },
     {
       "id": "klimmzug-untergriff",
@@ -724,7 +929,12 @@
       "level": "intermediate",
       "mechanics": "compound",
       "repRange": "5-12",
-      "cue": "Kinn über die Stange, kontrolliert absenken"
+      "steps": [
+        "Untergriff schulterbreit",
+        "Schulterblätter nach unten",
+        "Kinn über die Stange",
+        "Langsam absenken"
+      ]
     },
     {
       "id": "latzug",
@@ -742,7 +952,12 @@
       "level": "beginner",
       "mechanics": "compound",
       "repRange": "8-12",
-      "cue": "Stange zur oberen Brust, nicht zurücklehnen"
+      "steps": [
+        "Oberschenkel unter das Polster, Brust hoch",
+        "Stange breit greifen",
+        "Zur oberen Brust ziehen",
+        "Kontrolliert zurück"
+      ]
     },
     {
       "id": "latzug-enger-griff",
@@ -759,7 +974,12 @@
       "level": "beginner",
       "mechanics": "compound",
       "repRange": "8-12",
-      "cue": "Ellbogen nah am Körper ziehen"
+      "steps": [
+        "Enger Griff, Brust hoch",
+        "Leicht zurücklehnen",
+        "Ellbogen nah am Körper nach unten ziehen",
+        "Langsam zurück"
+      ]
     },
     {
       "id": "rudern-langhantel",
@@ -779,7 +999,12 @@
       "level": "intermediate",
       "mechanics": "compound",
       "repRange": "6-10",
-      "cue": "Oberkörper stabil, zum Bauchnabel ziehen"
+      "steps": [
+        "Oberkörper vorgebeugt, Rücken gerade",
+        "Stange hängt unter den Schultern",
+        "Zum Bauchnabel ziehen",
+        "Kontrolliert absenken"
+      ]
     },
     {
       "id": "rudern-kurzhantel",
@@ -797,7 +1022,12 @@
       "level": "beginner",
       "mechanics": "compound",
       "repRange": "8-12",
-      "cue": "Ellbogen zur Hüfte, Schulter nicht rotieren"
+      "steps": [
+        "Eine Hand und ein Knie auf die Bank",
+        "Rücken gerade",
+        "Ellbogen zur Hüfte ziehen",
+        "Langsam absenken"
+      ]
     },
     {
       "id": "rudern-kabel",
@@ -815,7 +1045,12 @@
       "level": "beginner",
       "mechanics": "compound",
       "repRange": "8-12",
-      "cue": "Brust hoch, Schulterblätter zusammen"
+      "steps": [
+        "Aufrecht sitzen, Brust hoch",
+        "Griff zum Bauch ziehen",
+        "Schulterblätter zusammen",
+        "Arme langsam strecken"
+      ]
     },
     {
       "id": "t-bar-rudern",
@@ -834,7 +1069,12 @@
       "level": "intermediate",
       "mechanics": "compound",
       "repRange": "8-12",
-      "cue": "Brust am Polster, ziehen ohne Schwung"
+      "steps": [
+        "Brust auf das Polster oder leicht vorgebeugt",
+        "Rücken gerade",
+        "Zum Oberkörper ziehen",
+        "Kontrolliert zurück"
+      ]
     },
     {
       "id": "brustgestuetztes-rudern",
@@ -852,7 +1092,12 @@
       "level": "beginner",
       "mechanics": "compound",
       "repRange": "8-12",
-      "cue": "Kein Schwung, volle Streckung unten"
+      "steps": [
+        "Brust ans Polster, Griffe fassen",
+        "Schulterblätter zusammenziehen",
+        "Ellbogen nach hinten ziehen",
+        "Langsam strecken"
+      ]
     },
     {
       "id": "straight-arm-pulldown",
@@ -867,7 +1112,12 @@
       "level": "intermediate",
       "mechanics": "isolation",
       "repRange": "10-15",
-      "cue": "Arme fast gestreckt, aus der Schulter ziehen"
+      "steps": [
+        "Seil hoch, Arme fast gestreckt",
+        "Leicht vorgebeugt",
+        "Mit gestreckten Armen zur Hüfte ziehen",
+        "Langsam zurück"
+      ]
     },
     {
       "id": "kurzhantel-shrug",
@@ -882,7 +1132,12 @@
       "level": "beginner",
       "mechanics": "isolation",
       "repRange": "10-15",
-      "cue": "Gerade hoch, nicht kreisen"
+      "steps": [
+        "Hanteln seitlich halten",
+        "Schultern gerade nach oben ziehen",
+        "Oben kurz halten",
+        "Langsam absenken"
+      ]
     },
     {
       "id": "langhantel-curl",
@@ -899,7 +1154,12 @@
       "level": "beginner",
       "mechanics": "isolation",
       "repRange": "8-12",
-      "cue": "Ellbogen fest am Körper"
+      "steps": [
+        "Aufrecht, Ellbogen am Körper",
+        "Stange zur Schulter curlen",
+        "Oben anspannen",
+        "Langsam absenken"
+      ]
     },
     {
       "id": "kurzhantel-curl",
@@ -916,7 +1176,12 @@
       "level": "beginner",
       "mechanics": "isolation",
       "repRange": "8-12",
-      "cue": "Handgelenk neutral, kein Schwung"
+      "steps": [
+        "Aufrecht, Hanteln seitlich",
+        "Ellbogen fest am Körper",
+        "Zur Schulter curlen",
+        "Langsam absenken"
+      ]
     },
     {
       "id": "hammer-curl",
@@ -934,7 +1199,12 @@
       "level": "beginner",
       "mechanics": "isolation",
       "repRange": "8-12",
-      "cue": "Neutraler Griff, Ellbogen vorn halten"
+      "steps": [
+        "Neutraler Griff, Daumen oben",
+        "Ellbogen vorne am Körper",
+        "Zur Schulter curlen",
+        "Kontrolliert absenken"
+      ]
     },
     {
       "id": "incline-curl",
@@ -949,7 +1219,12 @@
       "level": "intermediate",
       "mechanics": "isolation",
       "repRange": "8-12",
-      "cue": "Ellbogen hinter dem Körper für mehr Dehnung"
+      "steps": [
+        "Rücken auf Bank (ca. 60 Grad), Arme hängen",
+        "Ellbogen bleiben hinter dem Körper",
+        "Hanteln hochcurlen",
+        "Langsam absenken"
+      ]
     },
     {
       "id": "preacher-curl",
@@ -964,7 +1239,12 @@
       "level": "beginner",
       "mechanics": "isolation",
       "repRange": "8-12",
-      "cue": "Oberarme fest auf dem Polster"
+      "steps": [
+        "Oberarme fest aufs Polster",
+        "Griff schulterbreit",
+        "Hochcurlen",
+        "Langsam fast strecken"
+      ]
     },
     {
       "id": "trizeps-druecken-kabel",
@@ -979,7 +1259,12 @@
       "level": "beginner",
       "mechanics": "isolation",
       "repRange": "10-15",
-      "cue": "Ellbogen fix, volle Streckung"
+      "steps": [
+        "Ellbogen fest am Körper",
+        "Oberkörper leicht vorgebeugt",
+        "Arme nach unten strecken",
+        "Kontrolliert zurück"
+      ]
     },
     {
       "id": "french-press",
@@ -994,7 +1279,12 @@
       "level": "intermediate",
       "mechanics": "isolation",
       "repRange": "8-12",
-      "cue": "Oberarme senkrecht, Stange zur Stirn"
+      "steps": [
+        "Liegen, Stange über der Stirn",
+        "Oberarme senkrecht",
+        "Ellbogen beugen, Stange zur Stirn",
+        "Strecken"
+      ]
     },
     {
       "id": "overhead-trizeps",
@@ -1009,7 +1299,12 @@
       "level": "intermediate",
       "mechanics": "isolation",
       "repRange": "10-15",
-      "cue": "Ellbogen nah am Kopf, volle Dehnung"
+      "steps": [
+        "Seil hinter dem Kopf, Ellbogen nah am Kopf",
+        "Aufrecht stehen",
+        "Arme nach vorn oben strecken",
+        "Kontrolliert zurück"
+      ]
     },
     {
       "id": "enges-bankdruecken",
@@ -1027,7 +1322,12 @@
       "level": "intermediate",
       "mechanics": "compound",
       "repRange": "6-10",
-      "cue": "Griff schulterbreit, Ellbogen am Körper"
+      "steps": [
+        "Griff schulterbreit",
+        "Ellbogen nah am Körper",
+        "Zur unteren Brust absenken",
+        "Hochdrücken"
+      ]
     },
     {
       "id": "plank",
@@ -1045,7 +1345,12 @@
       "level": "beginner",
       "mechanics": "isometric",
       "repRange": "20-60s",
-      "cue": "Körper gerade, Gesäß und Bauch anspannen"
+      "steps": [
+        "Unterarme auf den Boden, Ellbogen unter den Schultern",
+        "Körper bildet eine Linie",
+        "Bauch und Gesäß anspannen",
+        "Atmen und halten"
+      ]
     },
     {
       "id": "side-plank",
@@ -1062,7 +1367,12 @@
       "level": "beginner",
       "mechanics": "isometric",
       "repRange": "20-45s",
-      "cue": "Hüfte oben halten, Körper in einer Linie"
+      "steps": [
+        "Seitlich auf einen Unterarm stützen",
+        "Hüfte hochdrücken",
+        "Körper in einer Linie halten",
+        "Atmen und halten"
+      ]
     },
     {
       "id": "dead-bug",
@@ -1079,7 +1389,12 @@
       "level": "beginner",
       "mechanics": "isolation",
       "repRange": "8-12",
-      "cue": "Unterer Rücken bleibt am Boden"
+      "steps": [
+        "Rückenlage, Arme nach oben, Knie 90 Grad",
+        "Unterer Rücken am Boden",
+        "Gegenüberliegenden Arm und Bein strecken",
+        "Zurück, Seite wechseln"
+      ]
     },
     {
       "id": "ab-wheel",
@@ -1097,7 +1412,12 @@
       "level": "advanced",
       "mechanics": "isolation",
       "repRange": "6-12",
-      "cue": "Becken leicht gekippt, Rücken nicht durchhängen"
+      "steps": [
+        "Knien, Rad unter den Schultern",
+        "Becken leicht kippen",
+        "Langsam nach vorn rollen",
+        "Mit dem Bauch zurückziehen"
+      ]
     },
     {
       "id": "haengendes-beinheben",
@@ -1115,7 +1435,12 @@
       "level": "intermediate",
       "mechanics": "isolation",
       "repRange": "8-15",
-      "cue": "Becken kippen, nicht schwingen"
+      "steps": [
+        "An der Stange hängen, Schultern aktiv",
+        "Becken leicht kippen",
+        "Beine gestreckt oder gebeugt heben",
+        "Langsam absenken"
+      ]
     },
     {
       "id": "cable-crunch",
@@ -1130,7 +1455,12 @@
       "level": "intermediate",
       "mechanics": "isolation",
       "repRange": "10-20",
-      "cue": "Wirbelsäule einrollen, Hüfte fix"
+      "steps": [
+        "Knien, Seil am Kopf",
+        "Hüfte bleibt fix",
+        "Wirbelsäule einrollen",
+        "Langsam zurück"
+      ]
     },
     {
       "id": "pallof-press",
@@ -1147,7 +1477,12 @@
       "level": "beginner",
       "mechanics": "isolation",
       "repRange": "10-15 pro Seite",
-      "cue": "Gegen die Rotation stabil bleiben"
+      "steps": [
+        "Seitlich zum Kabel stehen, Griff vor der Brust",
+        "Fest stehen",
+        "Arme nach vorn strecken",
+        "Gegen den Zug stabil bleiben, zurück"
+      ]
     },
     {
       "id": "farmers-walk",
@@ -1166,7 +1501,12 @@
       "level": "beginner",
       "mechanics": "compound",
       "repRange": "20-40m",
-      "cue": "Aufrecht gehen, Schultern tief"
+      "steps": [
+        "Schwere Hanteln greifen",
+        "Aufrecht stehen, Schultern tief",
+        "Kleine feste Schritte gehen",
+        "Rumpf angespannt halten"
+      ]
     },
     {
       "id": "kettlebell-swing",
@@ -1185,7 +1525,12 @@
       "level": "intermediate",
       "mechanics": "compound",
       "repRange": "10-20",
-      "cue": "Hüftstreckung treibt das Gewicht, Arme nur halten"
+      "steps": [
+        "Füße schulterbreit, Kettlebell vor dir",
+        "Hüfte nach hinten schieben",
+        "Hüfte explosiv nach vorn strecken",
+        "Arme nur halten, Gewicht schwingt bis Brusthöhe"
+      ]
     },
     {
       "id": "box-jump",
@@ -1203,7 +1548,12 @@
       "level": "intermediate",
       "mechanics": "compound",
       "repRange": "3-6",
-      "cue": "Weich landen, voll aufrichten oben"
+      "steps": [
+        "Kniebeugenstellung vor der Box",
+        "Arme schwingen",
+        "Explosiv hochspringen",
+        "Weich landen und aufrichten"
+      ]
     },
     {
       "id": "medizinball-wurf",
@@ -1221,7 +1571,12 @@
       "level": "intermediate",
       "mechanics": "compound",
       "repRange": "3-6",
-      "cue": "Explosiv aus der Hüfte"
+      "steps": [
+        "Ball vor der Brust",
+        "Aus der Hüfte rotieren oder strecken",
+        "Explosiv werfen",
+        "Kontrolliert auffangen"
+      ]
     },
     {
       "id": "hanging-hold",
@@ -1238,7 +1593,12 @@
       "level": "beginner",
       "mechanics": "isometric",
       "repRange": "20-60s",
-      "cue": "Schultern aktiv halten"
+      "steps": [
+        "Stange fassen, Schultern aktiv",
+        "Körper ruhig halten",
+        "Greifen und halten",
+        "Kontrolliert absetzen"
+      ]
     },
     {
       "id": "rueckenstrecker-hyperextension",
@@ -1256,7 +1616,12 @@
       "level": "beginner",
       "mechanics": "isolation",
       "repRange": "10-15",
-      "cue": "Bis zur Neutralstellung, nicht überstrecken"
+      "steps": [
+        "Polster auf der Hüfte, Fersen fixiert",
+        "Körper in einer Linie",
+        "Oberkörper absenken",
+        "Bis zur Neutralstellung aufrichten"
+      ]
     },
     {
       "id": "rotator-aussenrotation",
@@ -1271,7 +1636,12 @@
       "level": "beginner",
       "mechanics": "isolation",
       "repRange": "12-20",
-      "cue": "Ellbogen am Körper, leichtes Gewicht"
+      "steps": [
+        "Ellbogen am Körper, 90 Grad gebeugt",
+        "Leichtes Gewicht",
+        "Hand nach außen drehen",
+        "Langsam zurück"
+      ]
     }
   ]
 }
