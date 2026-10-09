@@ -1,0 +1,1277 @@
+{
+  "version": 1,
+  "count": 74,
+  "exercises": [
+    {
+      "id": "kniebeuge-langhantel",
+      "name": "Kniebeuge (Langhantel)",
+      "nameEn": "Barbell Back Squat",
+      "pattern": "knee_dominant",
+      "primaryMuscles": [
+        "Quadrizeps",
+        "Gluteus"
+      ],
+      "secondaryMuscles": [
+        "Adduktoren",
+        "Rumpf"
+      ],
+      "equipment": "barbell",
+      "level": "intermediate",
+      "mechanics": "compound",
+      "repRange": "5-10",
+      "cue": "Brust hoch, Knie folgen den Zehen, Tiefe bis Oberschenkel mindestens parallel"
+    },
+    {
+      "id": "frontkniebeuge",
+      "name": "Frontkniebeuge",
+      "nameEn": "Front Squat",
+      "pattern": "knee_dominant",
+      "primaryMuscles": [
+        "Quadrizeps"
+      ],
+      "secondaryMuscles": [
+        "Gluteus",
+        "Rumpf"
+      ],
+      "equipment": "barbell",
+      "level": "advanced",
+      "mechanics": "compound",
+      "repRange": "5-8",
+      "cue": "Ellbogen hoch, aufrechter Oberkörper"
+    },
+    {
+      "id": "goblet-kniebeuge",
+      "name": "Goblet-Kniebeuge",
+      "nameEn": "Goblet Squat",
+      "pattern": "knee_dominant",
+      "primaryMuscles": [
+        "Quadrizeps",
+        "Gluteus"
+      ],
+      "secondaryMuscles": [
+        "Rumpf"
+      ],
+      "equipment": "dumbbell",
+      "level": "beginner",
+      "mechanics": "compound",
+      "repRange": "8-15",
+      "cue": "Gewicht vor der Brust, Ellbogen zwischen den Knien"
+    },
+    {
+      "id": "beinpresse",
+      "name": "Beinpresse",
+      "nameEn": "Leg Press",
+      "pattern": "knee_dominant",
+      "primaryMuscles": [
+        "Quadrizeps",
+        "Gluteus"
+      ],
+      "secondaryMuscles": [
+        "Adduktoren"
+      ],
+      "equipment": "machine",
+      "level": "beginner",
+      "mechanics": "compound",
+      "repRange": "8-15",
+      "cue": "Unterer Rücken bleibt am Polster, Knie nicht durchstrecken"
+    },
+    {
+      "id": "bulgarian-split-squat",
+      "name": "Bulgarian Split Squat",
+      "nameEn": "Bulgarian Split Squat",
+      "pattern": "unilateral_legs",
+      "primaryMuscles": [
+        "Quadrizeps",
+        "Gluteus"
+      ],
+      "secondaryMuscles": [
+        "Adduktoren"
+      ],
+      "equipment": "dumbbell",
+      "level": "intermediate",
+      "mechanics": "compound",
+      "repRange": "8-12",
+      "cue": "Hinterer Fuß erhöht, Oberkörper leicht nach vorn"
+    },
+    {
+      "id": "ausfallschritt",
+      "name": "Ausfallschritt",
+      "nameEn": "Lunge",
+      "pattern": "unilateral_legs",
+      "primaryMuscles": [
+        "Quadrizeps",
+        "Gluteus"
+      ],
+      "secondaryMuscles": [
+        "Hamstrings"
+      ],
+      "equipment": "dumbbell",
+      "level": "beginner",
+      "mechanics": "compound",
+      "repRange": "8-12",
+      "cue": "Langer Schritt, vorderes Knie über dem Fuß"
+    },
+    {
+      "id": "step-up",
+      "name": "Step-up",
+      "nameEn": "Step-Up",
+      "pattern": "unilateral_legs",
+      "primaryMuscles": [
+        "Quadrizeps",
+        "Gluteus"
+      ],
+      "secondaryMuscles": [],
+      "equipment": "dumbbell",
+      "level": "beginner",
+      "mechanics": "compound",
+      "repRange": "8-12",
+      "cue": "Mit dem vorderen Bein hochdrücken, nicht vom hinteren Fuß abstoßen"
+    },
+    {
+      "id": "hackenschmidt-kniebeuge",
+      "name": "Hack Squat",
+      "nameEn": "Hack Squat",
+      "pattern": "knee_dominant",
+      "primaryMuscles": [
+        "Quadrizeps"
+      ],
+      "secondaryMuscles": [
+        "Gluteus"
+      ],
+      "equipment": "machine",
+      "level": "intermediate",
+      "mechanics": "compound",
+      "repRange": "8-12",
+      "cue": "Füße tief gestellt, volle Beugung kontrolliert"
+    },
+    {
+      "id": "beinstrecker",
+      "name": "Beinstrecker",
+      "nameEn": "Leg Extension",
+      "pattern": "knee_dominant",
+      "primaryMuscles": [
+        "Quadrizeps"
+      ],
+      "secondaryMuscles": [],
+      "equipment": "machine",
+      "level": "beginner",
+      "mechanics": "isolation",
+      "repRange": "10-20",
+      "cue": "Oben kurz halten, Bewegung langsam senken"
+    },
+    {
+      "id": "kreuzheben",
+      "name": "Kreuzheben",
+      "nameEn": "Conventional Deadlift",
+      "pattern": "hip_dominant",
+      "primaryMuscles": [
+        "Gluteus",
+        "Hamstrings",
+        "Rückenstrecker"
+      ],
+      "secondaryMuscles": [
+        "Trapez",
+        "Unterarme",
+        "Rumpf"
+      ],
+      "equipment": "barbell",
+      "level": "advanced",
+      "mechanics": "compound",
+      "repRange": "3-8",
+      "cue": "Stange nah am Körper, neutraler Rücken, Boden wegdrücken"
+    },
+    {
+      "id": "rumaenisches-kreuzheben",
+      "name": "Rumänisches Kreuzheben",
+      "nameEn": "Romanian Deadlift",
+      "pattern": "hip_dominant",
+      "primaryMuscles": [
+        "Hamstrings",
+        "Gluteus"
+      ],
+      "secondaryMuscles": [
+        "Rückenstrecker"
+      ],
+      "equipment": "barbell",
+      "level": "intermediate",
+      "mechanics": "compound",
+      "repRange": "6-12",
+      "cue": "Hüfte nach hinten schieben, Knie leicht gebeugt, Stange entlang der Beine"
+    },
+    {
+      "id": "sumo-kreuzheben",
+      "name": "Sumo-Kreuzheben",
+      "nameEn": "Sumo Deadlift",
+      "pattern": "hip_dominant",
+      "primaryMuscles": [
+        "Gluteus",
+        "Adduktoren",
+        "Quadrizeps"
+      ],
+      "secondaryMuscles": [
+        "Rückenstrecker"
+      ],
+      "equipment": "barbell",
+      "level": "advanced",
+      "mechanics": "compound",
+      "repRange": "3-8",
+      "cue": "Breiter Stand, Knie nach außen drücken"
+    },
+    {
+      "id": "trap-bar-kreuzheben",
+      "name": "Trap-Bar-Kreuzheben",
+      "nameEn": "Trap Bar Deadlift",
+      "pattern": "hip_dominant",
+      "primaryMuscles": [
+        "Quadrizeps",
+        "Gluteus"
+      ],
+      "secondaryMuscles": [
+        "Rückenstrecker",
+        "Trapez"
+      ],
+      "equipment": "trap_bar",
+      "level": "beginner",
+      "mechanics": "compound",
+      "repRange": "5-10",
+      "cue": "Neutraler Griff, Brust hoch"
+    },
+    {
+      "id": "hip-thrust",
+      "name": "Hip Thrust",
+      "nameEn": "Barbell Hip Thrust",
+      "pattern": "hip_dominant",
+      "primaryMuscles": [
+        "Gluteus"
+      ],
+      "secondaryMuscles": [
+        "Hamstrings"
+      ],
+      "equipment": "barbell",
+      "level": "intermediate",
+      "mechanics": "compound",
+      "repRange": "8-12",
+      "cue": "Kinn leicht zur Brust, oben Gesäß fest anspannen"
+    },
+    {
+      "id": "glute-bridge",
+      "name": "Glute Bridge",
+      "nameEn": "Glute Bridge",
+      "pattern": "hip_dominant",
+      "primaryMuscles": [
+        "Gluteus"
+      ],
+      "secondaryMuscles": [
+        "Hamstrings"
+      ],
+      "equipment": "bodyweight",
+      "level": "beginner",
+      "mechanics": "compound",
+      "repRange": "10-20",
+      "cue": "Fersen drücken, Becken nicht überstrecken"
+    },
+    {
+      "id": "good-morning",
+      "name": "Good Morning",
+      "nameEn": "Good Morning",
+      "pattern": "hip_dominant",
+      "primaryMuscles": [
+        "Hamstrings",
+        "Rückenstrecker"
+      ],
+      "secondaryMuscles": [
+        "Gluteus"
+      ],
+      "equipment": "barbell",
+      "level": "advanced",
+      "mechanics": "compound",
+      "repRange": "8-12",
+      "cue": "Hüftbeugung mit geradem Rücken, leichtes Gewicht"
+    },
+    {
+      "id": "liegendes-beinbeugen",
+      "name": "Liegendes Beinbeugen",
+      "nameEn": "Lying Leg Curl",
+      "pattern": "knee_flexion",
+      "primaryMuscles": [
+        "Hamstrings"
+      ],
+      "secondaryMuscles": [],
+      "equipment": "machine",
+      "level": "beginner",
+      "mechanics": "isolation",
+      "repRange": "8-15",
+      "cue": "Hüfte bleibt am Polster"
+    },
+    {
+      "id": "sitzendes-beinbeugen",
+      "name": "Sitzendes Beinbeugen",
+      "nameEn": "Seated Leg Curl",
+      "pattern": "knee_flexion",
+      "primaryMuscles": [
+        "Hamstrings"
+      ],
+      "secondaryMuscles": [],
+      "equipment": "machine",
+      "level": "beginner",
+      "mechanics": "isolation",
+      "repRange": "8-15",
+      "cue": "Volle Dehnung unten nutzen"
+    },
+    {
+      "id": "nordic-curl",
+      "name": "Nordic Curl",
+      "nameEn": "Nordic Hamstring Curl",
+      "pattern": "knee_flexion",
+      "primaryMuscles": [
+        "Hamstrings"
+      ],
+      "secondaryMuscles": [
+        "Gluteus"
+      ],
+      "equipment": "bodyweight",
+      "level": "advanced",
+      "mechanics": "isolation",
+      "repRange": "3-8",
+      "cue": "Körper gerade lassen, exzentrisch kontrolliert absenken"
+    },
+    {
+      "id": "wadenheben-stehend",
+      "name": "Wadenheben stehend",
+      "nameEn": "Standing Calf Raise",
+      "pattern": "calves",
+      "primaryMuscles": [
+        "Gastrocnemius"
+      ],
+      "secondaryMuscles": [
+        "Soleus"
+      ],
+      "equipment": "machine",
+      "level": "beginner",
+      "mechanics": "isolation",
+      "repRange": "8-15",
+      "cue": "Unten volle Dehnung, oben kurz halten"
+    },
+    {
+      "id": "wadenheben-sitzend",
+      "name": "Wadenheben sitzend",
+      "nameEn": "Seated Calf Raise",
+      "pattern": "calves",
+      "primaryMuscles": [
+        "Soleus"
+      ],
+      "secondaryMuscles": [
+        "Gastrocnemius"
+      ],
+      "equipment": "machine",
+      "level": "beginner",
+      "mechanics": "isolation",
+      "repRange": "10-20",
+      "cue": "Langsam und mit voller Bewegung"
+    },
+    {
+      "id": "adduktorenmaschine",
+      "name": "Adduktorenmaschine",
+      "nameEn": "Hip Adduction Machine",
+      "pattern": "hip_abd_add",
+      "primaryMuscles": [
+        "Adduktoren"
+      ],
+      "secondaryMuscles": [],
+      "equipment": "machine",
+      "level": "beginner",
+      "mechanics": "isolation",
+      "repRange": "10-15",
+      "cue": "Kontrolliert zusammenführen"
+    },
+    {
+      "id": "abduktorenmaschine",
+      "name": "Abduktorenmaschine",
+      "nameEn": "Hip Abduction Machine",
+      "pattern": "hip_abd_add",
+      "primaryMuscles": [
+        "Gluteus medius"
+      ],
+      "secondaryMuscles": [],
+      "equipment": "machine",
+      "level": "beginner",
+      "mechanics": "isolation",
+      "repRange": "12-20",
+      "cue": "Becken stabil, nicht schwingen"
+    },
+    {
+      "id": "bankdruecken",
+      "name": "Bankdrücken",
+      "nameEn": "Barbell Bench Press",
+      "pattern": "horizontal_push",
+      "primaryMuscles": [
+        "Brust"
+      ],
+      "secondaryMuscles": [
+        "Trizeps",
+        "vordere Schulter"
+      ],
+      "equipment": "barbell",
+      "level": "intermediate",
+      "mechanics": "compound",
+      "repRange": "5-10",
+      "cue": "Schulterblätter zusammen, Füße fest am Boden"
+    },
+    {
+      "id": "schraegbankdruecken",
+      "name": "Schrägbankdrücken",
+      "nameEn": "Incline Bench Press",
+      "pattern": "incline_push",
+      "primaryMuscles": [
+        "obere Brust"
+      ],
+      "secondaryMuscles": [
+        "Trizeps",
+        "vordere Schulter"
+      ],
+      "equipment": "barbell",
+      "level": "intermediate",
+      "mechanics": "compound",
+      "repRange": "6-10",
+      "cue": "Bank 30 Grad, Stange zur oberen Brust"
+    },
+    {
+      "id": "kurzhantel-bankdruecken",
+      "name": "Kurzhantel-Bankdrücken",
+      "nameEn": "Dumbbell Bench Press",
+      "pattern": "horizontal_push",
+      "primaryMuscles": [
+        "Brust"
+      ],
+      "secondaryMuscles": [
+        "Trizeps",
+        "vordere Schulter"
+      ],
+      "equipment": "dumbbell",
+      "level": "beginner",
+      "mechanics": "compound",
+      "repRange": "8-12",
+      "cue": "Ellbogen ca. 45 Grad zum Körper, volle Dehnung"
+    },
+    {
+      "id": "kurzhantel-schraegbankdruecken",
+      "name": "Kurzhantel-Schrägbankdrücken",
+      "nameEn": "Incline Dumbbell Press",
+      "pattern": "incline_push",
+      "primaryMuscles": [
+        "obere Brust"
+      ],
+      "secondaryMuscles": [
+        "Trizeps",
+        "vordere Schulter"
+      ],
+      "equipment": "dumbbell",
+      "level": "beginner",
+      "mechanics": "compound",
+      "repRange": "8-12",
+      "cue": "Hanteln über der Schulter pressen"
+    },
+    {
+      "id": "brustpresse",
+      "name": "Brustpresse",
+      "nameEn": "Machine Chest Press",
+      "pattern": "horizontal_push",
+      "primaryMuscles": [
+        "Brust"
+      ],
+      "secondaryMuscles": [
+        "Trizeps"
+      ],
+      "equipment": "machine",
+      "level": "beginner",
+      "mechanics": "compound",
+      "repRange": "8-15",
+      "cue": "Sitzhöhe so, dass Griffe auf Brusthöhe liegen"
+    },
+    {
+      "id": "liegestuetz",
+      "name": "Liegestütz",
+      "nameEn": "Push-Up",
+      "pattern": "horizontal_push",
+      "primaryMuscles": [
+        "Brust"
+      ],
+      "secondaryMuscles": [
+        "Trizeps",
+        "vordere Schulter",
+        "Rumpf"
+      ],
+      "equipment": "bodyweight",
+      "level": "beginner",
+      "mechanics": "compound",
+      "repRange": "8-20",
+      "cue": "Körper bildet eine gerade Linie"
+    },
+    {
+      "id": "dips",
+      "name": "Dips",
+      "nameEn": "Dips",
+      "pattern": "horizontal_push",
+      "primaryMuscles": [
+        "Brust",
+        "Trizeps"
+      ],
+      "secondaryMuscles": [
+        "vordere Schulter"
+      ],
+      "equipment": "bodyweight",
+      "level": "intermediate",
+      "mechanics": "compound",
+      "repRange": "6-12",
+      "cue": "Leicht nach vorn lehnen für mehr Brustanteil"
+    },
+    {
+      "id": "fliegende-kurzhantel",
+      "name": "Fliegende (Kurzhantel)",
+      "nameEn": "Dumbbell Fly",
+      "pattern": "chest_isolation",
+      "primaryMuscles": [
+        "Brust"
+      ],
+      "secondaryMuscles": [],
+      "equipment": "dumbbell",
+      "level": "intermediate",
+      "mechanics": "isolation",
+      "repRange": "10-15",
+      "cue": "Ellbogen leicht gebeugt, Dehnung kontrolliert"
+    },
+    {
+      "id": "cable-crossover",
+      "name": "Cable Crossover",
+      "nameEn": "Cable Crossover",
+      "pattern": "chest_isolation",
+      "primaryMuscles": [
+        "Brust"
+      ],
+      "secondaryMuscles": [],
+      "equipment": "cable",
+      "level": "beginner",
+      "mechanics": "isolation",
+      "repRange": "10-15",
+      "cue": "Arme in einem Bogen zusammenführen"
+    },
+    {
+      "id": "butterfly-maschine",
+      "name": "Butterfly-Maschine",
+      "nameEn": "Pec Deck",
+      "pattern": "chest_isolation",
+      "primaryMuscles": [
+        "Brust"
+      ],
+      "secondaryMuscles": [],
+      "equipment": "machine",
+      "level": "beginner",
+      "mechanics": "isolation",
+      "repRange": "10-15",
+      "cue": "Schultern nach hinten unten halten"
+    },
+    {
+      "id": "schulterdruecken-langhantel",
+      "name": "Schulterdrücken (Langhantel)",
+      "nameEn": "Overhead Press",
+      "pattern": "vertical_push",
+      "primaryMuscles": [
+        "vordere Schulter",
+        "seitliche Schulter"
+      ],
+      "secondaryMuscles": [
+        "Trizeps",
+        "Rumpf"
+      ],
+      "equipment": "barbell",
+      "level": "intermediate",
+      "mechanics": "compound",
+      "repRange": "5-10",
+      "cue": "Gesäß und Bauch fest, Kopf nach dem Durchgang unter die Stange"
+    },
+    {
+      "id": "schulterdruecken-kurzhantel",
+      "name": "Schulterdrücken (Kurzhantel)",
+      "nameEn": "Dumbbell Shoulder Press",
+      "pattern": "vertical_push",
+      "primaryMuscles": [
+        "vordere Schulter",
+        "seitliche Schulter"
+      ],
+      "secondaryMuscles": [
+        "Trizeps"
+      ],
+      "equipment": "dumbbell",
+      "level": "beginner",
+      "mechanics": "compound",
+      "repRange": "8-12",
+      "cue": "Unterarme senkrecht"
+    },
+    {
+      "id": "arnold-press",
+      "name": "Arnold Press",
+      "nameEn": "Arnold Press",
+      "pattern": "vertical_push",
+      "primaryMuscles": [
+        "Schulter"
+      ],
+      "secondaryMuscles": [
+        "Trizeps"
+      ],
+      "equipment": "dumbbell",
+      "level": "intermediate",
+      "mechanics": "compound",
+      "repRange": "8-12",
+      "cue": "Rotation fließend, nicht schwingen"
+    },
+    {
+      "id": "seitheben",
+      "name": "Seitheben",
+      "nameEn": "Lateral Raise",
+      "pattern": "shoulder_isolation",
+      "primaryMuscles": [
+        "seitliche Schulter"
+      ],
+      "secondaryMuscles": [],
+      "equipment": "dumbbell",
+      "level": "beginner",
+      "mechanics": "isolation",
+      "repRange": "10-20",
+      "cue": "Ellbogen führen, bis Schulterhöhe"
+    },
+    {
+      "id": "seitheben-kabel",
+      "name": "Seitheben am Kabel",
+      "nameEn": "Cable Lateral Raise",
+      "pattern": "shoulder_isolation",
+      "primaryMuscles": [
+        "seitliche Schulter"
+      ],
+      "secondaryMuscles": [],
+      "equipment": "cable",
+      "level": "intermediate",
+      "mechanics": "isolation",
+      "repRange": "10-20",
+      "cue": "Konstante Spannung über den ganzen Weg"
+    },
+    {
+      "id": "reverse-fly",
+      "name": "Reverse Fly",
+      "nameEn": "Reverse Fly",
+      "pattern": "shoulder_isolation",
+      "primaryMuscles": [
+        "hintere Schulter"
+      ],
+      "secondaryMuscles": [
+        "Rhomboiden",
+        "Trapez"
+      ],
+      "equipment": "dumbbell",
+      "level": "beginner",
+      "mechanics": "isolation",
+      "repRange": "12-20",
+      "cue": "Oberkörper vorgebeugt, Schulterblätter nicht überziehen"
+    },
+    {
+      "id": "face-pull",
+      "name": "Face Pull",
+      "nameEn": "Face Pull",
+      "pattern": "horizontal_pull",
+      "primaryMuscles": [
+        "hintere Schulter",
+        "Trapez"
+      ],
+      "secondaryMuscles": [
+        "Rotatorenmanschette"
+      ],
+      "equipment": "cable",
+      "level": "beginner",
+      "mechanics": "compound",
+      "repRange": "12-20",
+      "cue": "Seil zur Stirn, Ellbogen hoch"
+    },
+    {
+      "id": "klimmzug",
+      "name": "Klimmzug",
+      "nameEn": "Pull-Up",
+      "pattern": "vertical_pull",
+      "primaryMuscles": [
+        "Latissimus"
+      ],
+      "secondaryMuscles": [
+        "Bizeps",
+        "Rhomboiden"
+      ],
+      "equipment": "bodyweight",
+      "level": "intermediate",
+      "mechanics": "compound",
+      "repRange": "5-12",
+      "cue": "Schulterblätter zuerst nach unten, Brust zur Stange"
+    },
+    {
+      "id": "klimmzug-untergriff",
+      "name": "Klimmzug Untergriff",
+      "nameEn": "Chin-Up",
+      "pattern": "vertical_pull",
+      "primaryMuscles": [
+        "Latissimus",
+        "Bizeps"
+      ],
+      "secondaryMuscles": [
+        "Rhomboiden"
+      ],
+      "equipment": "bodyweight",
+      "level": "intermediate",
+      "mechanics": "compound",
+      "repRange": "5-12",
+      "cue": "Kinn über die Stange, kontrolliert absenken"
+    },
+    {
+      "id": "latzug",
+      "name": "Latzug",
+      "nameEn": "Lat Pulldown",
+      "pattern": "vertical_pull",
+      "primaryMuscles": [
+        "Latissimus"
+      ],
+      "secondaryMuscles": [
+        "Bizeps",
+        "Rhomboiden"
+      ],
+      "equipment": "cable",
+      "level": "beginner",
+      "mechanics": "compound",
+      "repRange": "8-12",
+      "cue": "Stange zur oberen Brust, nicht zurücklehnen"
+    },
+    {
+      "id": "latzug-enger-griff",
+      "name": "Latzug enger Griff",
+      "nameEn": "Close-Grip Pulldown",
+      "pattern": "vertical_pull",
+      "primaryMuscles": [
+        "Latissimus"
+      ],
+      "secondaryMuscles": [
+        "Bizeps"
+      ],
+      "equipment": "cable",
+      "level": "beginner",
+      "mechanics": "compound",
+      "repRange": "8-12",
+      "cue": "Ellbogen nah am Körper ziehen"
+    },
+    {
+      "id": "rudern-langhantel",
+      "name": "Rudern vorgebeugt (Langhantel)",
+      "nameEn": "Barbell Row",
+      "pattern": "horizontal_pull",
+      "primaryMuscles": [
+        "Latissimus",
+        "Rhomboiden",
+        "Trapez"
+      ],
+      "secondaryMuscles": [
+        "Bizeps",
+        "Rückenstrecker"
+      ],
+      "equipment": "barbell",
+      "level": "intermediate",
+      "mechanics": "compound",
+      "repRange": "6-10",
+      "cue": "Oberkörper stabil, zum Bauchnabel ziehen"
+    },
+    {
+      "id": "rudern-kurzhantel",
+      "name": "Einarmiges Kurzhantelrudern",
+      "nameEn": "One-Arm Dumbbell Row",
+      "pattern": "horizontal_pull",
+      "primaryMuscles": [
+        "Latissimus"
+      ],
+      "secondaryMuscles": [
+        "Rhomboiden",
+        "Bizeps"
+      ],
+      "equipment": "dumbbell",
+      "level": "beginner",
+      "mechanics": "compound",
+      "repRange": "8-12",
+      "cue": "Ellbogen zur Hüfte, Schulter nicht rotieren"
+    },
+    {
+      "id": "rudern-kabel",
+      "name": "Rudern am Kabel (sitzend)",
+      "nameEn": "Seated Cable Row",
+      "pattern": "horizontal_pull",
+      "primaryMuscles": [
+        "Latissimus",
+        "Rhomboiden"
+      ],
+      "secondaryMuscles": [
+        "Bizeps"
+      ],
+      "equipment": "cable",
+      "level": "beginner",
+      "mechanics": "compound",
+      "repRange": "8-12",
+      "cue": "Brust hoch, Schulterblätter zusammen"
+    },
+    {
+      "id": "t-bar-rudern",
+      "name": "T-Bar-Rudern",
+      "nameEn": "T-Bar Row",
+      "pattern": "horizontal_pull",
+      "primaryMuscles": [
+        "Latissimus",
+        "Rhomboiden"
+      ],
+      "secondaryMuscles": [
+        "Bizeps",
+        "Trapez"
+      ],
+      "equipment": "machine",
+      "level": "intermediate",
+      "mechanics": "compound",
+      "repRange": "8-12",
+      "cue": "Brust am Polster, ziehen ohne Schwung"
+    },
+    {
+      "id": "brustgestuetztes-rudern",
+      "name": "Brustgestütztes Rudern",
+      "nameEn": "Chest-Supported Row",
+      "pattern": "horizontal_pull",
+      "primaryMuscles": [
+        "Rhomboiden",
+        "Latissimus"
+      ],
+      "secondaryMuscles": [
+        "Bizeps"
+      ],
+      "equipment": "machine",
+      "level": "beginner",
+      "mechanics": "compound",
+      "repRange": "8-12",
+      "cue": "Kein Schwung, volle Streckung unten"
+    },
+    {
+      "id": "straight-arm-pulldown",
+      "name": "Straight-Arm Pulldown",
+      "nameEn": "Straight-Arm Pulldown",
+      "pattern": "vertical_pull",
+      "primaryMuscles": [
+        "Latissimus"
+      ],
+      "secondaryMuscles": [],
+      "equipment": "cable",
+      "level": "intermediate",
+      "mechanics": "isolation",
+      "repRange": "10-15",
+      "cue": "Arme fast gestreckt, aus der Schulter ziehen"
+    },
+    {
+      "id": "kurzhantel-shrug",
+      "name": "Shrugs",
+      "nameEn": "Dumbbell Shrug",
+      "pattern": "shoulder_isolation",
+      "primaryMuscles": [
+        "Trapez"
+      ],
+      "secondaryMuscles": [],
+      "equipment": "dumbbell",
+      "level": "beginner",
+      "mechanics": "isolation",
+      "repRange": "10-15",
+      "cue": "Gerade hoch, nicht kreisen"
+    },
+    {
+      "id": "langhantel-curl",
+      "name": "Langhantel-Curl",
+      "nameEn": "Barbell Curl",
+      "pattern": "elbow_flexion",
+      "primaryMuscles": [
+        "Bizeps"
+      ],
+      "secondaryMuscles": [
+        "Unterarme"
+      ],
+      "equipment": "barbell",
+      "level": "beginner",
+      "mechanics": "isolation",
+      "repRange": "8-12",
+      "cue": "Ellbogen fest am Körper"
+    },
+    {
+      "id": "kurzhantel-curl",
+      "name": "Kurzhantel-Curl",
+      "nameEn": "Dumbbell Curl",
+      "pattern": "elbow_flexion",
+      "primaryMuscles": [
+        "Bizeps"
+      ],
+      "secondaryMuscles": [
+        "Unterarme"
+      ],
+      "equipment": "dumbbell",
+      "level": "beginner",
+      "mechanics": "isolation",
+      "repRange": "8-12",
+      "cue": "Handgelenk neutral, kein Schwung"
+    },
+    {
+      "id": "hammer-curl",
+      "name": "Hammer-Curl",
+      "nameEn": "Hammer Curl",
+      "pattern": "elbow_flexion",
+      "primaryMuscles": [
+        "Brachialis",
+        "Bizeps"
+      ],
+      "secondaryMuscles": [
+        "Unterarme"
+      ],
+      "equipment": "dumbbell",
+      "level": "beginner",
+      "mechanics": "isolation",
+      "repRange": "8-12",
+      "cue": "Neutraler Griff, Ellbogen vorn halten"
+    },
+    {
+      "id": "incline-curl",
+      "name": "Curl auf der Schrägbank",
+      "nameEn": "Incline Dumbbell Curl",
+      "pattern": "elbow_flexion",
+      "primaryMuscles": [
+        "Bizeps"
+      ],
+      "secondaryMuscles": [],
+      "equipment": "dumbbell",
+      "level": "intermediate",
+      "mechanics": "isolation",
+      "repRange": "8-12",
+      "cue": "Ellbogen hinter dem Körper für mehr Dehnung"
+    },
+    {
+      "id": "preacher-curl",
+      "name": "Preacher Curl",
+      "nameEn": "Preacher Curl",
+      "pattern": "elbow_flexion",
+      "primaryMuscles": [
+        "Bizeps"
+      ],
+      "secondaryMuscles": [],
+      "equipment": "machine",
+      "level": "beginner",
+      "mechanics": "isolation",
+      "repRange": "8-12",
+      "cue": "Oberarme fest auf dem Polster"
+    },
+    {
+      "id": "trizeps-druecken-kabel",
+      "name": "Trizepsdrücken am Kabel",
+      "nameEn": "Cable Triceps Pushdown",
+      "pattern": "elbow_extension",
+      "primaryMuscles": [
+        "Trizeps"
+      ],
+      "secondaryMuscles": [],
+      "equipment": "cable",
+      "level": "beginner",
+      "mechanics": "isolation",
+      "repRange": "10-15",
+      "cue": "Ellbogen fix, volle Streckung"
+    },
+    {
+      "id": "french-press",
+      "name": "French Press (SZ-Stange)",
+      "nameEn": "Skull Crusher",
+      "pattern": "elbow_extension",
+      "primaryMuscles": [
+        "Trizeps"
+      ],
+      "secondaryMuscles": [],
+      "equipment": "barbell",
+      "level": "intermediate",
+      "mechanics": "isolation",
+      "repRange": "8-12",
+      "cue": "Oberarme senkrecht, Stange zur Stirn"
+    },
+    {
+      "id": "overhead-trizeps",
+      "name": "Trizepsstrecken über Kopf",
+      "nameEn": "Overhead Triceps Extension",
+      "pattern": "elbow_extension",
+      "primaryMuscles": [
+        "Trizeps (langer Kopf)"
+      ],
+      "secondaryMuscles": [],
+      "equipment": "cable",
+      "level": "intermediate",
+      "mechanics": "isolation",
+      "repRange": "10-15",
+      "cue": "Ellbogen nah am Kopf, volle Dehnung"
+    },
+    {
+      "id": "enges-bankdruecken",
+      "name": "Enges Bankdrücken",
+      "nameEn": "Close-Grip Bench Press",
+      "pattern": "horizontal_push",
+      "primaryMuscles": [
+        "Trizeps",
+        "Brust"
+      ],
+      "secondaryMuscles": [
+        "vordere Schulter"
+      ],
+      "equipment": "barbell",
+      "level": "intermediate",
+      "mechanics": "compound",
+      "repRange": "6-10",
+      "cue": "Griff schulterbreit, Ellbogen am Körper"
+    },
+    {
+      "id": "plank",
+      "name": "Plank",
+      "nameEn": "Plank",
+      "pattern": "core_anti_extension",
+      "primaryMuscles": [
+        "Rumpf"
+      ],
+      "secondaryMuscles": [
+        "Schulter",
+        "Gluteus"
+      ],
+      "equipment": "bodyweight",
+      "level": "beginner",
+      "mechanics": "isometric",
+      "repRange": "20-60s",
+      "cue": "Körper gerade, Gesäß und Bauch anspannen"
+    },
+    {
+      "id": "side-plank",
+      "name": "Seitstütz",
+      "nameEn": "Side Plank",
+      "pattern": "core_anti_lateral",
+      "primaryMuscles": [
+        "Seitliche Bauchmuskeln"
+      ],
+      "secondaryMuscles": [
+        "Gluteus medius"
+      ],
+      "equipment": "bodyweight",
+      "level": "beginner",
+      "mechanics": "isometric",
+      "repRange": "20-45s",
+      "cue": "Hüfte oben halten, Körper in einer Linie"
+    },
+    {
+      "id": "dead-bug",
+      "name": "Dead Bug",
+      "nameEn": "Dead Bug",
+      "pattern": "core_anti_extension",
+      "primaryMuscles": [
+        "Rumpf"
+      ],
+      "secondaryMuscles": [
+        "Hüftbeuger"
+      ],
+      "equipment": "bodyweight",
+      "level": "beginner",
+      "mechanics": "isolation",
+      "repRange": "8-12",
+      "cue": "Unterer Rücken bleibt am Boden"
+    },
+    {
+      "id": "ab-wheel",
+      "name": "Ab Wheel",
+      "nameEn": "Ab Wheel Rollout",
+      "pattern": "core_anti_extension",
+      "primaryMuscles": [
+        "Rumpf"
+      ],
+      "secondaryMuscles": [
+        "Latissimus",
+        "Schulter"
+      ],
+      "equipment": "equipment",
+      "level": "advanced",
+      "mechanics": "isolation",
+      "repRange": "6-12",
+      "cue": "Becken leicht gekippt, Rücken nicht durchhängen"
+    },
+    {
+      "id": "haengendes-beinheben",
+      "name": "Hängendes Beinheben",
+      "nameEn": "Hanging Leg Raise",
+      "pattern": "core_flexion",
+      "primaryMuscles": [
+        "Bauch",
+        "Hüftbeuger"
+      ],
+      "secondaryMuscles": [
+        "Unterarme"
+      ],
+      "equipment": "bodyweight",
+      "level": "intermediate",
+      "mechanics": "isolation",
+      "repRange": "8-15",
+      "cue": "Becken kippen, nicht schwingen"
+    },
+    {
+      "id": "cable-crunch",
+      "name": "Cable Crunch",
+      "nameEn": "Cable Crunch",
+      "pattern": "core_flexion",
+      "primaryMuscles": [
+        "Bauch"
+      ],
+      "secondaryMuscles": [],
+      "equipment": "cable",
+      "level": "intermediate",
+      "mechanics": "isolation",
+      "repRange": "10-20",
+      "cue": "Wirbelsäule einrollen, Hüfte fix"
+    },
+    {
+      "id": "pallof-press",
+      "name": "Pallof Press",
+      "nameEn": "Pallof Press",
+      "pattern": "core_anti_rotation",
+      "primaryMuscles": [
+        "Rumpf"
+      ],
+      "secondaryMuscles": [
+        "Schulter"
+      ],
+      "equipment": "cable",
+      "level": "beginner",
+      "mechanics": "isolation",
+      "repRange": "10-15 pro Seite",
+      "cue": "Gegen die Rotation stabil bleiben"
+    },
+    {
+      "id": "farmers-walk",
+      "name": "Farmer's Walk",
+      "nameEn": "Farmer's Carry",
+      "pattern": "carry",
+      "primaryMuscles": [
+        "Unterarme",
+        "Trapez",
+        "Rumpf"
+      ],
+      "secondaryMuscles": [
+        "Gluteus"
+      ],
+      "equipment": "dumbbell",
+      "level": "beginner",
+      "mechanics": "compound",
+      "repRange": "20-40m",
+      "cue": "Aufrecht gehen, Schultern tief"
+    },
+    {
+      "id": "kettlebell-swing",
+      "name": "Kettlebell Swing",
+      "nameEn": "Kettlebell Swing",
+      "pattern": "hip_dominant",
+      "primaryMuscles": [
+        "Gluteus",
+        "Hamstrings"
+      ],
+      "secondaryMuscles": [
+        "Rückenstrecker",
+        "Rumpf"
+      ],
+      "equipment": "kettlebell",
+      "level": "intermediate",
+      "mechanics": "compound",
+      "repRange": "10-20",
+      "cue": "Hüftstreckung treibt das Gewicht, Arme nur halten"
+    },
+    {
+      "id": "box-jump",
+      "name": "Box Jump",
+      "nameEn": "Box Jump",
+      "pattern": "plyometric",
+      "primaryMuscles": [
+        "Quadrizeps",
+        "Gluteus"
+      ],
+      "secondaryMuscles": [
+        "Waden"
+      ],
+      "equipment": "bodyweight",
+      "level": "intermediate",
+      "mechanics": "compound",
+      "repRange": "3-6",
+      "cue": "Weich landen, voll aufrichten oben"
+    },
+    {
+      "id": "medizinball-wurf",
+      "name": "Medizinball-Wurf",
+      "nameEn": "Medicine Ball Throw",
+      "pattern": "plyometric",
+      "primaryMuscles": [
+        "Ganzkörper"
+      ],
+      "secondaryMuscles": [
+        "Rumpf",
+        "Schulter"
+      ],
+      "equipment": "medicine_ball",
+      "level": "intermediate",
+      "mechanics": "compound",
+      "repRange": "3-6",
+      "cue": "Explosiv aus der Hüfte"
+    },
+    {
+      "id": "hanging-hold",
+      "name": "Hang (Klimmzugstange)",
+      "nameEn": "Dead Hang",
+      "pattern": "grip",
+      "primaryMuscles": [
+        "Unterarme"
+      ],
+      "secondaryMuscles": [
+        "Latissimus"
+      ],
+      "equipment": "bodyweight",
+      "level": "beginner",
+      "mechanics": "isometric",
+      "repRange": "20-60s",
+      "cue": "Schultern aktiv halten"
+    },
+    {
+      "id": "rueckenstrecker-hyperextension",
+      "name": "Rückenstrecker (Hyperextension)",
+      "nameEn": "Back Extension",
+      "pattern": "hip_dominant",
+      "primaryMuscles": [
+        "Rückenstrecker",
+        "Gluteus"
+      ],
+      "secondaryMuscles": [
+        "Hamstrings"
+      ],
+      "equipment": "machine",
+      "level": "beginner",
+      "mechanics": "isolation",
+      "repRange": "10-15",
+      "cue": "Bis zur Neutralstellung, nicht überstrecken"
+    },
+    {
+      "id": "rotator-aussenrotation",
+      "name": "Außenrotation am Kabel",
+      "nameEn": "Cable External Rotation",
+      "pattern": "shoulder_isolation",
+      "primaryMuscles": [
+        "Rotatorenmanschette"
+      ],
+      "secondaryMuscles": [],
+      "equipment": "cable",
+      "level": "beginner",
+      "mechanics": "isolation",
+      "repRange": "12-20",
+      "cue": "Ellbogen am Körper, leichtes Gewicht"
+    }
+  ]
+}
